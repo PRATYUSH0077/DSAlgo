@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0070-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -55,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
