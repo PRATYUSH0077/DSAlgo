@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
+| [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
