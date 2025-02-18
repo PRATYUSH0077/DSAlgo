@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
 |  |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
