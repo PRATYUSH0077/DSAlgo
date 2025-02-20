@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2465-shifting-letters-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -152,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
