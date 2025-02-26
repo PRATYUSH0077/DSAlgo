@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
