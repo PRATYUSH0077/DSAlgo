@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0070-climbing-stairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
