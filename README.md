@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2465-shifting-letters-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
