@@ -41,9 +41,6 @@ public:
         vector<int> ans(k);
         for(int i=0;i<k;i++){
             auto it=mp.lower_bound(queries[i]);
-            if(i==0){
-                cout<<it->first<<" "<<it->second<<"\n";
-            }
             ans[i]=it->second;
         }
         return ans;
