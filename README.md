@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
