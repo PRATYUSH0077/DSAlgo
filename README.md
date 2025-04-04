@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1876-map-of-highest-peak) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1558-course-schedule-iv) |
 ## Union Find
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
