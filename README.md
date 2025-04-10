@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2465-shifting-letters-ii) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
