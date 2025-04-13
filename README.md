@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0368-largest-divisible-subset) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
