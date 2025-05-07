@@ -7,13 +7,6 @@ public:
     }
     int minTimeToReach(vector<vector<int>>& arr) {
         int n=arr.size(),m=arr[0].size();
-        // vector<vector<ll>> dp(n,vector<ll>(m,0));
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<m;j++){
-        //         dp[i][j]=arr[i][j]+1;
-        //     }
-        // }
-        // dp[0][0]=0;
         int delrow[]={-1,0,1,0};
         int delcol[]={0,-1,0,1};
         vector<vector<bool>> vis(n,vector<bool>(m,0));
@@ -28,7 +21,6 @@ public:
                 time=max(time,arr[i][j]+1);
             }
             pq.pop();
-            // cout<<i<<" "<<j<<" "<<time<<endl;
             if(i==n-1 && j==m-1){
                 return time;
             }
@@ -40,7 +32,6 @@ public:
                 int nrow=i+delrow[k],ncol=j+delcol[k];
                 if(isValid(n,m,nrow,ncol) 
                     && !vis[nrow][ncol]
-                    // && dp[i][j]>=arr[nrow][ncol]
                 ){    
                     pq.push({time+1,{nrow,ncol}});
                 }
