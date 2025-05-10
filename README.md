@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Brainteaser
 |  |
 | ------- |
