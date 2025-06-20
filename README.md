@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Graph
 |  |
 | ------- |
