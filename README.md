@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2465-shifting-letters-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3617-find-the-original-typed-string-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
