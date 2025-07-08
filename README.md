@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1524-string-matching-in-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
