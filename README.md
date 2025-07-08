@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0368-largest-divisible-subset](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0416-partition-equal-subset-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1876-map-of-highest-peak) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
