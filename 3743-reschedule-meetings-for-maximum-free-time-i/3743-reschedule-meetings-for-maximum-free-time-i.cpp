@@ -14,7 +14,7 @@ public:
         }
         int sz=vec.size(),i=0,j=0,temp=0,ans=0;
         while(j<sz){
-            cout<<i<<" "<<j<<endl;
+            // cout<<i<<" "<<j<<endl;
             if(j-i+1 <= k+1){
                 temp+=vec[j];
                 j++;
