@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Shortest Path
 |  |
 | ------- |
