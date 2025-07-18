@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2792-neighboring-bitwise-xor) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Monotonic Stack
 |  |
@@ -312,9 +316,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
