@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0044-wildcard-matching) |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
