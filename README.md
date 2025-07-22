@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0115-distinct-subsequences) |
 | [0368-largest-divisible-subset](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0416-partition-equal-subset-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
