@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1558-course-schedule-iv) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
