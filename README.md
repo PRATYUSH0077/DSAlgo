@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0377-combination-sum-iv) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0377-combination-sum-iv) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0300-longest-increasing-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
