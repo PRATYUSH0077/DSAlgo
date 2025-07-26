@@ -1,36 +1,43 @@
 class Solution {
 public:
-    bool isCycle(int i,vector<vector<int>>&adj){
-        queue<int> q;
-        int n=adj.size();
-        vector<int> visited(n,0);
-        q.push(i);
-        while(!q.empty()){
-            int node=q.front();
-            if(visited[node]){
-                return true;
-            }
-            visited[node]=1;
-            q.pop();
-            for(auto it:adj[node]){
-                if(!visited[it]){
-                    q.push(it);
-                }
-            }
+    vector<int> parent,vec;
+    int findParent(int node){
+        if(parent[node]==node){
+            return node;
         }
-        return false;
+        return parent[node]=findParent(parent[node]);
+    }
+    void unionSize(int node1, int node2){
+        int node1_par=findParent(node1);
+        int node2_par=findParent(node2);
+        if(node1_par==node2_par){
+            return ;
+        }else if(vec[node1_par] > vec[node2_par]){
+            parent[node2_par]=node1_par;
+            vec[node1_par]+= vec[node2_par];
+        }else{
+            parent[node1_par]=node2_par;
+            vec[node2_par]+= vec[node1_par];
+        }
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n=edges.size();
-        vector<vector<int>> adj(n+1);
-        for(auto it:edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
-            if(isCycle(it[0],adj))
-                return it;
-            
+        parent.resize(n+1);    
+        vec.resize(n+1);
+        for(int i=0;i<=n;i++){
+            parent[i]=i;
+            vec[i]=1;
         }
-
+        for(auto &it:edges){
+            int u=it[0],v=it[1];
+            int u_par=findParent(u);
+            int v_par=findParent(v);
+            if(u_par==v_par){
+                return it;
+            }
+            unionSize(u,v);
+        }
         return {};
+
     }
 };
