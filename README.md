@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -253,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -287,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0368-largest-divisible-subset) |
+| [0721-accounts-merge](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0721-accounts-merge) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
