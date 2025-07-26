@@ -23,6 +23,7 @@ public:
         }
     }
     vector<int> processQueries(int c, vector<vector<int>>& edges, vector<vector<int>>& queries) {
+        //  vector<int> parent,size;
         parent.resize(c+1);
         size.resize(c+1);
         for(int i=1;i<=c;i++){
