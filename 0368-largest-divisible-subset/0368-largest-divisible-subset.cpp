@@ -1,26 +1,37 @@
 class Solution {
 public:
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-        vector<int> max_ele(n,1),index(n,-1);
-        int maxi=1,max_index=0;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[j]%nums[i]==0 && max_ele[i]+1>max_ele[j]){
-                    index[j]=i;
-                    max_ele[j]=max_ele[i]+1;
-                    if(max_ele[j]>maxi){
-                        maxi=max_ele[j];
-                        max_index=j;
-                    }
-                }
-            }
+    int rec(int i,int j,int n,vector<int> &nums,vector<vector<int>>&dp){
+        if(i>=n) return 0;
+        if(dp[i][j+1]!=-1) return dp[i][j+1];
+
+        int np=0,p=0;
+        np=rec(i+1,j,n,nums,dp);
+        if(j==-1 || nums[i]%nums[j]==0){
+            p=1+rec(i+1,i,n,nums,dp);
         }
+        return dp[i][j+1]=max(np,p);
+    }
+    vector<int> largestDivisibleSubset(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+        cout<< rec(0,-1,n,nums,dp)<<endl;
         vector<int> ans;
-        while(max_index>=0){
-            ans.push_back(nums[max_index]);
-            max_index=index[max_index];
+        // for(auto it:dp){
+        //     for(auto it2:it){
+        //         cout<<it2<<" ";
+        //     }
+        //     cout<<endl;
+        // }
+        int i=0,j=-1;
+        while(i<n){
+            cout<<i<<" "<<j<<endl;
+            int np=dp[i+1][j+1],p=dp[i+1][i+1];
+            if(p>=np && (j==-1 || nums[i]%nums[j]==0)){
+                ans.push_back(nums[i]);                
+                j=i;
+            }
+            i++;
         }
         return ans;
     }
