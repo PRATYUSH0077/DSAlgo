@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2176-parallel-courses-iii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2176-parallel-courses-iii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2176-parallel-courses-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2262-solving-questions-with-brainpower) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2176-parallel-courses-iii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2176-parallel-courses-iii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3863-power-grid-maintenance](https://github.com/PRATYUSH0077/DSAlgo/tree/master/3863-power-grid-maintenance) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/PRATYUSH0077/DSAlgo/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/PRATYUSH0077/DSAlgo/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2176-parallel-courses-iii](https://github.com/PRATYUSH0077/DSAlgo/tree/master/2176-parallel-courses-iii) |
 ## Sorting
 |  |
 | ------- |
