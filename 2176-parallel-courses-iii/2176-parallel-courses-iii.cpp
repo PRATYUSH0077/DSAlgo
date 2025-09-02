@@ -1,30 +1,37 @@
 class Solution {
 public:
-    int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
-    vector<vector<int>> adj(n);
-    vector<int> indeg(n, 0);
-    for (auto& r : relations) {
-        int u = r[0]-1, v = r[1]-1;
-        adj[u].push_back(v);
-        indeg[v]++;
+   int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
+    vector<int>adj[n+1];
+    vector<int>indegree(n+1,0);
+    for(auto & e:relations){
+      adj[e[0]].push_back(e[1]);
+      indegree[e[1]]++;
     }
-    queue<int> q;
-    vector<int> finishTime(n, 0);
-    for (int i = 0; i < n; i++) {
-        if (indeg[i] == 0) {
+    queue<int>q;
+    vector<int>finish_time(n+1,0);
+    for(int i=1;i<=n;i++){
+        if(indegree[i]==0){
             q.push(i);
-            finishTime[i] = time[i];
+            finish_time[i]=time[i-1];
         }
     }
-    int ans = 0;
-    while (!q.empty()) {
-        int u = q.front(); q.pop();
-        ans = max(ans, finishTime[u]);
-        for (int v : adj[u]) {
-            finishTime[v] = max(finishTime[v], finishTime[u] + time[v]);
-            if (--indeg[v] == 0) q.push(v);
+    int ans=0;
+    while(!q.empty())
+    {
+        int u=q.front();
+        q.pop();
+        ans=max(ans,finish_time[u]);
+        for(int v:adj[u])
+        {
+            finish_time[v]=max(finish_time[v],finish_time[u]+time[v-1]);
+            indegree[v]--;
+            if(indegree[v]==0)
+            {
+                q.push(v);
+            }   
         }
     }
     return ans;
-}
+        
+    }
 };
